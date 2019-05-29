@@ -18,7 +18,7 @@ Ejercicio en el cual creamos un documento HTML de JavaDocv a partir de un archiv
 - toString
 
 ##### Captura de Ejecucion del Programa.
-![Imagen Codigo Programa](https://i.imgur.com/Fa3oJL1.png "Codigo Fuente del programa")
-![Imagen Ejecución](https://i.imgur.com/MsIZoXX.png)
+![Imagen Codigo Programa](https://i.imgur.com/Fa3oJL1.png "Codigo Fuente del programa.")
+![Imagen Ejecución](https://i.imgur.com/MsIZoXX.png "Resultado Ejecución.")
 
 [__Link al proyecto.__](https://github.com/JulianPerezOrtiz/EntornosDesarrolloJavaDoc)
