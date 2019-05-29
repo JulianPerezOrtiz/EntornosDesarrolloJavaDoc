@@ -18,4 +18,4 @@ Ejercicio en el cual creamos un documento HTML de JavaDocv a partir de un archiv
 - toString
 
 ##### Captura de Ejecucion del Programa.
-![Imgur Image](https://imgur.com/Fa3oJL1)
+![Imgur Image](https://i.imgur.com/Fa3oJL1.png)
