@@ -19,3 +19,4 @@ Ejercicio en el cual creamos un documento HTML de JavaDocv a partir de un archiv
 
 ##### Captura de Ejecucion del Programa.
 ![Imgur Image](https://i.imgur.com/Fa3oJL1.png)
+![reg](https://i.imgur.com/MsIZoXX.png)
