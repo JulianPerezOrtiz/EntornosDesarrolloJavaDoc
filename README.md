@@ -18,4 +18,4 @@ Ejercicio en el cual creamos un documento HTML de JavaDocv a partir de un archiv
 - toString
 
 ##### Captura de Ejecucion del Programa.
-[Imgur](https://i.imgur.com/Fa3oJL1.png)
+[![An old rock in the desert]( "Shiprock, New Mexico by Beau Rogers")]([img]https://i.imgur.com/Fa3oJL1.png[/img])
